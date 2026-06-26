@@ -1,0 +1,7 @@
+ipykernel
+asyncio
+asyncpg
+requests
+fastapi
+pydantic
+fastapi[standard]
