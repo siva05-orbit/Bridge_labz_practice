@@ -5,3 +5,6 @@ nltk
 gensim
 scikit-learn
 vaderSentiment
+sumy
+spacy
+rouge_score
